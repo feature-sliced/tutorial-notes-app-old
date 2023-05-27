@@ -18,4 +18,4 @@ pnpm format
 
 To see the solution, check out the `solution` branch.
 
-To see the changes that have been made to the original Remix app, check out the [commit history](./commits).
+To see the changes that have been made to the original Remix app, check out the [commit history](https://github.com/feature-sliced/tutorial-notes-app/commits).
